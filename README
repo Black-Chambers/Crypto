@@ -1,1 +1,10 @@
+Link to Fork of Dice Word list repository...
 
+executeShellCommandToVariable as System
+powershell.exe Invoke-restmethod -uri "http://www.dinopass.com/password/Strong"
+
+Invoke-RestMethod -uri "https://www.dinopass.com/password/Strong"
+
+
+
+Add-Type -AssemblyName System.Web; [System.Web.Security.Membership]::GeneratePassword(12,1)
