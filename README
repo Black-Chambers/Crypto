@@ -1,4 +1,4 @@
-Link to Fork of Dice Word list repository...
+Link to [Fork of Dice Word list] repository(https://github.com/Black-Chambers/Diceware-word-lists)
 
 executeShellCommandToVariable as System
 powershell.exe Invoke-restmethod -uri "http://www.dinopass.com/password/Strong"
