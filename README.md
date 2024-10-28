@@ -1,4 +1,4 @@
-Link to [Fork of Dice Word list](https://github.com/Black-Chambers/Diceware-word-lists) repository
+Link to [fork of Dice Word list](https://github.com/Black-Chambers/Diceware-word-lists) repository
 
 ```
 executeShellCommandToVariable as System
