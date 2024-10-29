@@ -4,7 +4,7 @@
 
 NTFS
 
-not REFS
+not REFS (REFS *does* support BitLocker)
 
 ### Recovery
 
