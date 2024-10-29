@@ -1,5 +1,5 @@
 Microsoft BitLocker<br>
-introduced with Windows 10<br>
+introduced with Windows Vista<br>
 included with Windows Pro, Enterprise, or Education edition<br>
 
 Recovery key size and format<br>
