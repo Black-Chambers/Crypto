@@ -14,6 +14,10 @@ AD CS GPO
 
 ### GUI
 
+**User Accounts - Manage file encryption certificates** EFS REKEY wizard<br> 
+`%windir%\system32\rekeywiz.exe`<br>
+Comment: certificates keys signatures signed guard protect secure preserve files administer configure managed manages managing up setup
+
 ### Command Line
 
 cipher.exe
