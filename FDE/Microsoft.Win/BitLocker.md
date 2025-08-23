@@ -17,7 +17,7 @@ Commands to display recovery key
 ### PowerShell
 
 ```
-...
+(Get-BitLockerVolume -MountPoint C).KeyProtector
 ```
 
 Mount volume in recovery environment such as DART or _ <br>
