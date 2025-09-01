@@ -23,4 +23,4 @@ pack('H*',$_)while read(STDIN,$m,($w=2*$d-1+length($n)&~1)/2)
 
 Machine readable version of program: CODE 128 barcode
 
-[insert image]
+<a title="Adam Back &lt;adam@cypherspace.org&gt;, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munitions_T-shirt_(front).jpg"><img width="256" alt="Encryption code printed on T-shirt as protest against US encryption export restrictions." src="https://upload.wikimedia.org/wikipedia/commons/9/96/Munitions_T-shirt_%28front%29.jpg?20140701152453"></a>
