@@ -32,6 +32,12 @@ powershell.exe Invoke-restmethod -uri "http://www.dinopass.com/password/Strong"
 
 `Invoke-RestMethod -uri "https://www.dinopass.com/password/Strong"`
 
+-----
+
+For crypto ramsom, ...
+
+
+
 
 [**Windows** PowerShell]
 `Add-Type -AssemblyName System.Web; [System.Web.Security.Membership]::GeneratePassword(12,1)`
