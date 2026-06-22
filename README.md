@@ -7,6 +7,8 @@ Solving
 * Vigenère cipher [Vigenere Cipher Solver](https://www.dcode.fr/vigenere-cipher)
 * Beaufort Cipher variant of the Vigenere Cipher https://www.dcode.fr/beaufort-cipher
 * [PlayFair Cipher](https://www.dcode.fr/playfair-cipher)
+* Caesar Cipher
+* 
 
 [Statistics](https://github.com/Black-Chambers/Statistics)
 
