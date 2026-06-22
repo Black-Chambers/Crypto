@@ -1,3 +1,28 @@
+# Cryptography
+
+## Black Chambers
+
+Solving
+* cryptograms/substitution
+* Vigenère cipher [Vigenere Cipher Solver](https://www.dcode.fr/vigenere-cipher)
+* Beaufort Cipher variant of the Vigenere Cipher https://www.dcode.fr/beaufort-cipher
+* [PlayFair Cipher](https://www.dcode.fr/playfair-cipher)
+
+[Statistics](https://github.com/Black-Chambers/Statistics)
+
+Solving tools
+
+https://www.thewordfinder.com/
+* Anagram Solver
+* Scrabble
+* 
+
+
+https://www.thewordfinder.com/nyt-hub/
+* Wordle
+* 
+
+
 Link to [fork of Dice Word list](https://github.com/Black-Chambers/Diceware-word-lists) repository
 
 ```
